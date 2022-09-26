@@ -115,6 +115,7 @@ box-sizing: border-box;
     width: 600px;
     height: auto;
     margin: 60px auto;
+    overflow: hidden;
 }
 #user.terms > table {
     width: 100%;
